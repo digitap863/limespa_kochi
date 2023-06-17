@@ -424,7 +424,7 @@ ul, ol, li {
     }
 
 .intro1 h2 {
-	color: #fff;
+	color:#dcdcba;
 	font-size: 53px;
 	text-transform: none;
 	
@@ -433,7 +433,7 @@ ul, ol, li {
 
 .intro1 p {
 	font-size: 16px;
-	color: #fff;
+	color: #dcdcba;
 }
 
 .intro-form {
